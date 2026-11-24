@@ -1,4 +1,3 @@
-# pines-wedding-plan
 # Emerald Pines Country Club Wedding Planner
 
 A static, front-end wedding planning demo rebuilt from the supplied project as four files: `index.html`, `styles.css`, `app.js`, and `README.md`. It uses plain HTML, CSS, and JavaScript, so you do not need React, Node.js, or a package install to view it.
